@@ -1,6 +1,6 @@
 # Github-Actions exmples
 
-Examples & playground for github-actions
+Examples & playground for github-actions. Visit [`.github/workflows` folder](.github/workflows).
 
 ## License
 
